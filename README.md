@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; Studying Computer Science at the University of California, Los Angeles.
 - 🌱 &nbsp; Interested in Machine learning, Game Design, and Artificial Intelligence.
-- ✍️ &nbsp; Play basketball and .
+- ✍️ &nbsp; Play basketball and tennis in my free time.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
